@@ -1,2 +1,2 @@
-# Projeto-Dio - JS - Java - Framework - SQL - AWS
+# Projeto-Dio - FullStack
 #Todos os projetos do Dio
